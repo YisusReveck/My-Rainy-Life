@@ -1,2 +1,2 @@
 # My-Rainy-Life
-My personal website about my projects, skkills and more.
+My personal website about my projects, skills and more.
